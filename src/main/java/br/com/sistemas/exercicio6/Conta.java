@@ -1,7 +1,7 @@
 package br.com.sistemas.exercicio6;
 
 /*
- * Alterar o modificador de acesso do atributo saldo para protected
+ * Alterar o modificador de fffffffffffacesso do atributo saldo para protected
  * Alterar o modificador de acesso do metodo acumularIFN para protected
  */
 public class Conta {
